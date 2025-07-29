@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/TallerElPajaroCarpintero/static/css/main.10d2b22b.css",
-    "main.js": "/TallerElPajaroCarpintero/static/js/main.b994b1b0.js",
+    "main.js": "/TallerElPajaroCarpintero/static/js/main.f3c3d152.js",
     "index.html": "/TallerElPajaroCarpintero/index.html",
     "main.10d2b22b.css.map": "/TallerElPajaroCarpintero/static/css/main.10d2b22b.css.map",
-    "main.b994b1b0.js.map": "/TallerElPajaroCarpintero/static/js/main.b994b1b0.js.map"
+    "main.f3c3d152.js.map": "/TallerElPajaroCarpintero/static/js/main.f3c3d152.js.map"
   },
   "entrypoints": [
     "static/css/main.10d2b22b.css",
-    "static/js/main.b994b1b0.js"
+    "static/js/main.f3c3d152.js"
   ]
 }
